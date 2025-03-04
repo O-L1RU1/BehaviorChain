@@ -106,7 +106,7 @@ api_key = "Bearer ak-xxxxxxx"
 
 Fields to be included in `my_first_book_for_extraction.json`
 
-```json
+```
 {
   "new_name": "",      # The title of the book.
   "chapters": [],    # An array of chapter objects, each containing the original chapter content.
