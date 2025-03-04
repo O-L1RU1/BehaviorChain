@@ -108,14 +108,14 @@ Fields to be included in `my_first_book_for_extraction.json`
 
 ```json
 {
-  "new_name": "",      // The title of the book.
-  "chapters": [],    // An array of chapter objects, each containing the original chapter content.
+  "new_name": "",      # The title of the book.
+  "chapters": [],    # An array of chapter objects, each containing the original chapter content.
   "all_summary": [
     {
-      "chapter_num": "", // The chapter identifier for this summary.
-      "chapter_content": "" // The summary content for the corresponding chapter.
+      "chapter_num": "", # The chapter identifier for this summary.
+      "chapter_content": "" # The summary content for the corresponding chapter.
     }
-  ] // An array of chapter summary objects, can be obtained from the "Supesummary" website.
+  ] # An array of chapter summary objects, can be obtained from the "Supesummary" website.
 }
 ```
 
