@@ -20,7 +20,7 @@ Designed to bridge the gap in digital twin research, this resource features 15,8
 This work empowers researchers to explore and develop LLM-based digital twins, individual and social simulations, or human-AI interaction. By utilizing the dataset, evaluation framework, and baseline results, we can further advance long-term behavior simulation in LLMs..
 
 <div align="center">
-  <img src="./image/app.png" alt="tokenskip" style="width:60%; max-width:800px; height:auto;" />
+  <img src="./image/app.png" alt="" style="width:60%; max-width:800px; height:auto;" />
 </div>
 
 
@@ -41,7 +41,7 @@ Profiles +  Histories
 - **Behavior Generation**: Open-ended sequential simulation  
 
 <div align="center">
-  <img src="./image/main.png" alt="tokenskip" style="width:100%; max-width:800px; height:auto;" />
+  <img src="./image/main.png" alt="" style="width:100%; max-width:800px; height:auto;" />
 </div>
 
 
@@ -56,7 +56,7 @@ Profiles +  Histories
 🌊 **Behavioral error accumulation:** Initial mistakes amplify in chain reasoning (snowball effect)
 
 <div align="center">
-  <img src="./image/result.png" alt="tokenskip" style="width:100%; max-width:800px; height:auto;" />
+  <img src="./image/result.png" alt="" style="width:100%; max-width:800px; height:auto;" />
 </div>
 
 
