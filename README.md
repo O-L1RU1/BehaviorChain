@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/License-Apache_2.0-green.svg"></a> 
 </p>
 
+**For the complete dataset, you can contact us via email.**
+
 ## Introduction
 
 We present **BehaviorChain**, the first benchmark for evaluating large language models' (LLMs) ability to simulate continuous human behavior. 
@@ -44,7 +46,6 @@ Profiles +  Histories
   <img src="./image/main.png" alt="" style="width:100%; max-width:800px; height:auto;" />
 </div>
 
-**For the complete dataset, you can contact us via email.**
 
 ## Key Findings
 
