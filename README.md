@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/License-Apache_2.0-green.svg"></a> 
 </p>
 
-**For the complete dataset, you can contact us via email.**
+**The BehaviorChain dataset is now available on Google Drive: [Download behaviorchain.zip](https://drive.google.com/file/d/1MGKAPwoxcUpfPhg2dub0eoIqpA-JlWQB/view?usp=sharing).**
 
 ## Introduction
 
@@ -32,11 +32,9 @@ This work empowers researchers to explore and develop LLM-based digital twins, i
 Generates context-aware behavior sequences from literary texts  
 
 💡 **15,846 Context-Grounded Behaviors** across **1,001 Literary Personas**  
-*(Data temporarily withheld due to copyright considerations - will be publicly released upon clearance with formal announcement)*  
 
 💡 **Persona Metadata**  
 Profiles +  Histories  
-*(Availability subject to same copyright clearance)*  
 
 💡 **Dual-Task Evaluation**  
 - **Behavior Prediction**: Multiple-choice contextual reasoning  
@@ -66,12 +64,14 @@ Profiles +  Histories
 
 ## Updates & Roadmap
 
+**2026.11.8**: Dataset released on [Google Drive](https://drive.google.com/file/d/1MGKAPwoxcUpfPhg2dub0eoIqpA-JlWQB/view?usp=sharing).  
+
 **2025.3.4**: Initial code release 🚀  
 
 **2025.2.20**: Preprint paper published 📄  
 
 ### Ongoing Development  
-- [x] Release evaluation dataset *(pending copyright clearance)*  
+- [x] Release evaluation dataset ([Google Drive](https://drive.google.com/file/d/1MGKAPwoxcUpfPhg2dub0eoIqpA-JlWQB/view?usp=sharing))  
 
 
 
